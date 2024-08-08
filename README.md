@@ -8,6 +8,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ton-nom-utilisateur&label=Profile%20views&color=0e75b6&style=flat)
 
+## ⚡️ About Me
+
+- ✨ I’m Abdoulaye Diallo, a full-stack developer with a strong background in both technical and soft skills.
+- 👨‍💻 I work consistently to develop and improve scalable web applications and systems.
+- 🔭 I bring my strong aptitude for analytical thinking, disciplined problem-solving, and collaborative style.
+- 🎓 I have a solid educational background with degrees from Epitech and Ecole 42, focusing on Information Systems Architecture and Computer Science.
+- 💡 I am skilled in a variety of programming languages and frameworks, including Laravel, Symfony, React, and Vue.js. But also Arduino and Unity.
+- 🎉🌱 Fun Fact: I love Openclassroom ! I like spending my free time on the platform learning new technologies and continuously improving my skills.
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
