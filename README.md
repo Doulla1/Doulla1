@@ -1,24 +1,60 @@
-# Bienvenue sur mon profil GitHub ! ![Profile Views](https://komarev.com/ghpvc/?username=AbdoulayeDiallo)
+# Welcome to My GitHub Profile!
 
-![Header](https://your-image-url.com)
+Hello! I'm a passionate full-stack developer with a knack for creating efficient and robust solutions. With a diverse experience spanning from logistics to web development and project management, I thrive on challenges and constantly seek to improve my skills. Here’s a glimpse into my journey and contributions.
 
-👋 Salut, je suis **Abdoulaye Diallo** ! Je suis étudiant en fin de mastère à Epitech, spécialisé en IoT et VR.
+![Profile Views](https://komarev.com/ghpvc/?username=ton-nom-utilisateur&label=Profile%20views&color=0e75b6&style=flat)
 
-## À propos de moi
-- 🎓 Je termine actuellement mon mastère à Epitech.
-- 💼 En alternance à l'Agence Des Montres.
-- ⚡ Passionné par les technologies, le fitness, l'escalade, les films et séries de SF et Fantasy.
-- 📚 Je lis beaucoup de mangas et de manhwas.
+## 🛠️ Technologies & Tools
 
-## Projets principaux
-- [Projet 1](URL_du_projet) : Description du projet 1.
-- [Projet 2](URL_du_projet) : Description du projet 2.
+### Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-## Compétences
-- **Langages :** ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-- **Frameworks :** ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-- **Outils :** ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-## Contactez-moi
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](URL_de_votre_LinkedIn)
-- [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](URL_de_votre_Twitter)
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-4D4D4D?style=for-the-badge&logo=plesk&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-nom-utilisateur&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-nom-utilisateur&layout=compact&theme=radical)
+
+## 📝 Projects & Contributions
+
+### Featured Projects
+- **[Project 1: Escape Game in VR](https://github.com/ton-nom-utilisateur/geppetto)** - Developed a virtual reality escape game using Unity.
+- **[Project 2: Smart Trash Can](https://github.com/ton-nom-utilisateur/smart-trash-can)** - Created an AR application to optimize waste collection routes.
+- **[Project 3: Online School Management System](https://github.com/ton-nom-utilisateur/online-school)** - Full-stack development of a web and VR application for online schooling.
+
+### Professional Experience
+#### Amazon (2018 - 2021)
+- Role: Logistics Operations Agent
+- Contributions: Optimized sorting processes and proposed improvements for handling urgent packages.
+
+#### Freelance (2019)
+- Role: Full-Stack Developer
+- Contributions: Developed and deployed a financial transfer website with comprehensive user and role management.
+
+#### Agence des Montres (2022 - Present)
+- Role: Full-Stack Developer
+- Contributions: Led development projects using WordPress, Drupal, Laravel, and React; set up CI/CD pipelines.
+
+## 📫 Contact Me
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
+- Website: [your-website.com](https://your-website.com)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
