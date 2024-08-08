@@ -53,8 +53,8 @@ Hello! I'm a passionate full-stack developer with a knack for creating efficient
 - Contributions: Led development projects using WordPress, Drupal, Laravel, and React; set up CI/CD pipelines.
 
 ## 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
-- Website: [your-website.com](https://your-website.com)
+- Email: [dialloabdoul99c@gmail.com](mailto:dialloabdoul99c@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/abdoulaye-diallo-dev/](https://www.linkedin.com/in/abdoulaye-diallo-dev/)
+- Website: [abdoulaye-diallo.com](abdoulaye-diallo.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
