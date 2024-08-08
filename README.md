@@ -39,16 +39,8 @@ Hello! I'm a passionate full-stack developer with a knack for creating efficient
 - **[Project 2: Smart Trash Can](https://github.com/ton-nom-utilisateur/smart-trash-can)** - Created an AR application to optimize waste collection routes.
 - **[Project 3: Online School Management System](https://github.com/ton-nom-utilisateur/online-school)** - Full-stack development of a web and VR application for online schooling.
 
-### Professional Experience
-#### Amazon (2018 - 2021)
-- Role: Logistics Operations Agent
-- Contributions: Optimized sorting processes and proposed improvements for handling urgent packages.
-
-#### Freelance (2019)
-- Role: Full-Stack Developer
-- Contributions: Developed and deployed a financial transfer website with comprehensive user and role management.
-
-#### Agence des Montres (2022 - Present)
+### My current job
+#### Agence des Montres (Since 2022)
 - Role: Full-Stack Developer
 - Contributions: Led development projects using WordPress, Drupal, Laravel, and React; set up CI/CD pipelines.
 
