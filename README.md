@@ -29,8 +29,8 @@ Hello! I'm a passionate full-stack developer with a knack for creating efficient
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-nom-utilisateur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-nom-utilisateur&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doulla1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&layout=compact&theme=radical)
 
 ## 📝 Projects & Contributions
 
