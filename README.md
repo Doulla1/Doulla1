@@ -1,6 +1,10 @@
-# Welcome to My GitHub Profile!
+<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-Hello! I'm a passionate full-stack developer with a knack for creating efficient and robust solutions. With a diverse experience spanning from logistics to web development and project management, I thrive on challenges and constantly seek to improve my skills. Here’s a glimpse into my journey and contributions.
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Abdoulaye+Diallo.;I'm+a+Full-Stack+Developer.;I+love+learning+new+technologies!"></a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ton-nom-utilisateur&label=Profile%20views&color=0e75b6&style=flat)
 
