@@ -28,9 +28,8 @@ Hello! I'm a passionate full-stack developer with a knack for creating efficient
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doulla1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&layout=compact&theme=radical)
+![Doulla1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doulla1&theme=vue-dark&hide_border=true)
+![Doulla1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📝 Projects & Contributions
 
