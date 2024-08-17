@@ -25,13 +25,28 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-0072B5?style=for-the-badge&logo=mql5&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,13 +56,14 @@
 
 ## 📈 GitHub Stats
 ![Doulla1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doulla1&theme=vue-dark&hide_border=true)
-![Doulla1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Doulla1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
+
 
 ## 📝 Projects & Contributions
 
 ### Featured Projects
 - **[Project 1: Online School Management System](https://github.com/Doulla1/DimoLaravel)** - Back-end development of a web application for online schooling.
-- **[Project 1(bis): Online School Management System](https://github.com/justOne6/dimo_vr_front)** - Font-end development of a webapplication for online schooling.
+- **[Project 1(bis): Online School Management System](https://github.com/justOne6/dimo_vr_front)** - Font-end development of a web application for online schooling.
 
 ### My current job
 #### Agence des Montres (Since 2022)
