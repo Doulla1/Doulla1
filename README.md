@@ -46,9 +46,8 @@
 ## 📝 Projects & Contributions
 
 ### Featured Projects
-- **[Project 1: Escape Game in VR](https://github.com/ton-nom-utilisateur/geppetto)** - Developed a virtual reality escape game using Unity.
-- **[Project 2: Smart Trash Can](https://github.com/ton-nom-utilisateur/smart-trash-can)** - Created an AR application to optimize waste collection routes.
-- **[Project 3: Online School Management System](https://github.com/ton-nom-utilisateur/online-school)** - Full-stack development of a web and VR application for online schooling.
+- **[Project 1: Online School Management System](https://github.com/Doulla1/DimoLaravel)** - Back-end development of a web application for online schooling.
+- **[Project 1(bis): Online School Management System](https://github.com/justOne6/dimo_vr_front)** - Font-end development of a webapplication for online schooling.
 
 ### My current job
 #### Agence des Montres (Since 2022)
