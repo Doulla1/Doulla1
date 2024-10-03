@@ -65,11 +65,6 @@
 - **[Project 1: Online School Management System](https://github.com/Doulla1/DimoLaravel)** - Back-end development of a web application for online schooling.
 - **[Project 1(bis): Online School Management System](https://github.com/justOne6/dimo_vr_front)** - Font-end development of a web application for online schooling.
 
-### My current job
-#### Agence des Montres (Since 2022)
-- Role: Full-Stack Developer
-- Contributions: Led development projects using WordPress, Drupal, Laravel, and React; set up CI/CD pipelines.
-
 ## 📫 Contact Me
 - Email: [dialloabdoul99c@gmail.com](mailto:dialloabdoul99c@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/abdoulaye-diallo-dev/](https://www.linkedin.com/in/abdoulaye-diallo-dev/)
