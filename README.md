@@ -32,6 +32,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-0072B5?style=for-the-badge&logo=mql5&logoColor=white)
 
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +47,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,12 +59,6 @@
 ![Doulla1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doulla1&theme=vue-dark&hide_border=true)
 ![Doulla1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulla1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
-
-## 📝 Projects & Contributions
-
-### Featured Projects
-- **[Project 1: Online School Management System](https://github.com/Doulla1/DimoLaravel)** - Back-end development of a web application for online schooling.
-- **[Project 1(bis): Online School Management System](https://github.com/justOne6/dimo_vr_front)** - Font-end development of a web application for online schooling.
 
 ## 📫 Contact Me
 - Email: [dialloabdoul99c@gmail.com](mailto:dialloabdoul99c@gmail.com)
